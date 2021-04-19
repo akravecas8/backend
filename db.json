@@ -96,8 +96,8 @@
               }], 
               "produce4": [{
                 "name": "avocado",
-                "is-available": true,
-                "quantity": 65,
+                "is-available": false,
+                "quantity": 0,
                 "cost": 4.95,
                 "image": ""
               }], 
