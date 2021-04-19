@@ -1,1 +1,114 @@
 
+{
+    "farms": [{
+        "id": 1,
+        "name": "First Farm",
+        "image": "placeholder",
+        "produce": [{
+              "produce1": [{
+                "name": "lettuce",
+                "is-available": true,
+                "quantity": 55,
+                "cost": 3.45,
+                "image": ""
+              }],
+              "produce2": [{
+                "name": "onions",
+                "is-available": true,
+                "quantity": 30,
+                "cost": 1.85,
+                "image": ""
+              }],
+              "produce3": [{
+                "name": "bananas",
+                "is-available": true,
+                "quantity": 99,
+                "cost": 2.99,
+                "image": ""
+              }]
+            }]
+          },{
+        "id": 2,
+        "name": "Second Farm",
+        "image": "placeholder",
+        "produce": [{
+              "produce1": [{
+                "name": "lettuce",
+                "is-available": true,
+                "quantity": 55,
+                "cost": 4.11,
+                "image": ""
+              }],
+              "produce2": [{
+                "name": "blueberries",
+                "is-available": false,
+                "quantity": 0,
+                "cost": 1.60,
+                "image": ""
+              }],
+              "produce3": [{
+                "name": "cucumber",
+                "is-available": true,
+                "quantity": 99,
+                "cost": 2.75,
+                "image": ""
+              }], 
+              "produce4": [{
+                "name": "avocado",
+                "is-available": true,
+                "quantity": 65,
+                "cost": 4.95,
+                "image": ""
+              }], 
+              "produce5": [{
+                "name": "milk",
+                "is-available": true,
+                "quantity": 33,
+                "cost": 3.50,
+                "image": ""
+              }]
+          },{
+        "id": 3,
+        "name": "Bithcin Farm",
+        "image": "placeholder",
+        "produce": [{
+              "produce1": [{
+                "name": "lettuce",
+                "is-available": true,
+                "quantity": 55,
+                "cost": 4.11,
+                "image": ""
+              }],
+              "produce2": [{
+                "name": "blueberries",
+                "is-available": false,
+                "quantity": 0,
+                "cost": 1.60,
+                "image": ""
+              }],
+              "produce3": [{
+                "name": "cucumber",
+                "is-available": true,
+                "quantity": 99,
+                "cost": 2.75,
+                "image": ""
+              }], 
+              "produce4": [{
+                "name": "avocado",
+                "is-available": true,
+                "quantity": 65,
+                "cost": 4.95,
+                "image": ""
+              }], 
+              "produce5": [{
+                "name": "milk",
+                "is-available": true,
+                "quantity": 33,
+                "cost": 3.50,
+                "image": ""
+              }]
+            }]
+          }]
+        }]       
+  }
+       
