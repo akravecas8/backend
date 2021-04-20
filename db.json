@@ -9,7 +9,7 @@
                 "available": true,
                 "quantity": 55,
                 "cost": 3.45,
-                "produceImage": ""
+                "produceImage": "image"
               },{
                 "produceName": "onions",
                 "available": true,
@@ -60,7 +60,7 @@
               }]
           },{
         "id": 3,
-        "name": "Bithcin Farm",
+        "name": "Bitchin Farm",
         "image": "https://cropwatch.unl.edu/styles/hero/public/images/hero/2018/farmstead-fields-spring-s.jpg?itok=U9U7A-lx",
         "produce": [{
                 "produceName": "lettuce",
