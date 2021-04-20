@@ -5,110 +5,94 @@
         "name": "Bountiful Farms",
         "image": "https://pbs.twimg.com/profile_images/1290396987997724675/XpiEytwM_400x400.jpg",
         "produce": [{
-              "produce1": [{
-                "name": "lettuce",
+                "produceName": "lettuce",
                 "available": true,
                 "quantity": 55,
                 "cost": 3.45,
-                "image": ""
-              }],
-              "produce2": [{
-                "name": "onions",
+                "produceImage": ""
+              },{
+                "produceName": "onions",
                 "available": true,
                 "quantity": 30,
                 "cost": 1.85,
-                "image": ""
-              }],
-              "produce3": [{
-                "name": "bananas",
+                "produceImage": ""
+              },{
+                "produceName": "bananas",
                 "available": true,
                 "quantity": 99,
                 "cost": 2.99,
-                "image": ""
+                "produceImage": ""
               }]
-            }]
           },{
         "id": 2,
         "name": "Vital Farms",
         "image": "https://cdn.vitalfarms.com/wp-content/uploads/2021/01/2021-Campaign-EndCard.jpg",
         "produce": [{
-              "produce1": [{
-                "name": "lettuce",
+                "produceName": "lettuce",
                 "available": true,
                 "quantity": 55,
                 "cost": 4.11,
-                "image": ""
-              }],
-              "produce2": [{
-                "name": "blueberries",
+                "produceImage": ""
+              },{
+                "produceName": "blueberries",
                 "available": false,
                 "quantity": 0,
                 "cost": 1.60,
-                "image": ""
-              }],
-              "produce3": [{
-                "name": "cucumber",
+                "produceImage": ""
+              },{
+                "produceName": "cucumber",
                 "available": true,
                 "quantity": 99,
                 "cost": 2.75,
                 "image": ""
-              }], 
-              "produce4": [{
-                "name": "avocado",
+              },{
+                "produceName": "avocado",
                 "available": true,
                 "quantity": 65,
                 "cost": 4.95,
-                "image": ""
-              }], 
-              "produce5": [{
-                "name": "milk",
+                "produceImage": ""
+              },{
+                "produceName": "milk",
                 "available": true,
                 "quantity": 33,
                 "cost": 3.50,
-                "image": ""
+                "produceImage": ""
               }]
-            }]
           },{
         "id": 3,
         "name": "Bithcin Farm",
         "image": "https://cropwatch.unl.edu/styles/hero/public/images/hero/2018/farmstead-fields-spring-s.jpg?itok=U9U7A-lx",
         "produce": [{
-              "produce1": [{
-                "name": "lettuce",
+                "produceName": "lettuce",
                 "available": true,
                 "quantity": 55,
                 "cost": 4.11,
-                "image": ""
-              }],
-              "produce2": [{
-                "name": "blueberries",
+                "produceImage": ""
+              },{
+                "produceName": "blueberries",
                 "available": false,
                 "quantity": 0,
                 "cost": 1.60,
-                "image": ""
-              }],
-              "produce3": [{
-                "name": "cucumber",
+                "produceImage": ""
+              },{
+                "produceName": "cucumber",
                 "available": true,
                 "quantity": 99,
                 "cost": 2.75,
-                "image": ""
-              }], 
-              "produce4": [{
-                "name": "avocado",
+                "produceImage": ""
+              },{
+                "produceName": "avocado",
                 "available": false,
                 "quantity": 0,
                 "cost": 4.95,
-                "image": ""
-              }], 
-              "produce5": [{
-                "name": "milk",
+                "produceImage": ""
+              },{
+                "produceName": "milk",
                 "available": true,
                 "quantity": 33,
                 "cost": 3.50,
-                "image": ""
+                "produceImage": ""
               }]
-            }]
           }]      
   }
        
