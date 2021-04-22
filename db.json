@@ -6,65 +6,44 @@
       "image": "https://pbs.twimg.com/profile_images/1290396987997724675/XpiEytwM_400x400.jpg",
       "produce": [
         {
-          "produceName": "lettuce",
-          "available": true,
+          "produceName": "Cabbage",
+          "available": "yes",
           "quantity": 55,
           "cost": 4.11,
           "produceImage": ""
         },
         {
-          "produceName": "blueberries",
-          "available": false,
+          "produceName": "Blackberries",
+          "available": "no",
           "quantity": 0,
           "cost": 1.6,
           "produceImage": ""
         },
         {
-          "produceName": "cucumber",
-          "available": true,
-          "quantity": 99,
-          "cost": 2.75,
-          "produceImage": ""
-        },
-        {
-          "produceName": "avocado",
-          "available": true,
+          "produceName": "More Avocado",
+          "available": "yes",
           "quantity": 65,
           "cost": 4.95,
           "produceImage": ""
         },
         {
-          "produceName": "milk",
-          "available": true,
+          "produceName": "Chocolate Milk",
+          "available": "yes",
           "quantity": 33,
           "cost": 3.5,
           "produceImage": ""
         },
         {
-          "produceName": "cheese",
+          "produceName": "Brussle Sprouts",
           "available": "yes",
-          "quantity": "1",
-          "cost": "1000000",
+          "quantity": 44,
+          "cost": 6.99,
           "produceImage": "Create Item"
         },
         {
-          "produceName": "pinapple",
-          "available": "yes",
-          "quantity": "44",
-          "cost": "6.99",
-          "produceImage": "Create Item"
-        },
-        {
-          "produceName": "pinapple",
-          "available": "yes",
-          "quantity": "44",
-          "cost": "6.99",
-          "produceImage": "Create Item"
-        },
-        {
-          "produceName": "gucci",
+          "produceName": "Gucci",
           "available": "no",
-          "quantity": "69",
+          "quantity": 69,
           "cost": "you're too poor",
           "produceImage": "Create Item"
         }
@@ -76,39 +55,46 @@
       "image": "https://cdn.vitalfarms.com/wp-content/uploads/2021/01/2021-Campaign-EndCard.jpg",
       "produce": [
         {
-          "produceName": "lettuce",
-          "available": true,
+          "produceName": "Cabbage",
+          "available": "yes",
           "quantity": 55,
           "cost": 4.11,
           "produceImage": ""
         },
         {
-          "produceName": "blueberries",
-          "available": false,
+          "produceName": "Blackberries",
+          "available": "no",
           "quantity": 0,
           "cost": 1.6,
           "produceImage": ""
         },
         {
-          "produceName": "cucumber",
-          "available": true,
-          "quantity": 99,
-          "cost": 2.75,
-          "produceImage": ""
-        },
-        {
-          "produceName": "avocado",
-          "available": true,
+          "produceName": "More Avocado",
+          "available": "yes",
           "quantity": 65,
           "cost": 4.95,
           "produceImage": ""
         },
         {
-          "produceName": "milk",
-          "available": true,
+          "produceName": "Chocolate Milk",
+          "available": "yes",
           "quantity": 33,
           "cost": 3.5,
           "produceImage": ""
+        },
+        {
+          "produceName": "Brussle Sprouts",
+          "available": "yes",
+          "quantity": 44,
+          "cost": 6.99,
+          "produceImage": "Create Item"
+        },
+        {
+          "produceName": "Gucci",
+          "available": "no",
+          "quantity": 69,
+          "cost": "you're too poor",
+          "produceImage": "Create Item"
         }
       ]
     },
@@ -118,59 +104,45 @@
       "image": "https://cropwatch.unl.edu/styles/hero/public/images/hero/2018/farmstead-fields-spring-s.jpg?itok=U9U7A-lx",
       "produce": [
         {
-          "produceName": "lettuce",
-          "available": true,
+          "produceName": "Cabbage",
+          "available": "yes",
           "quantity": 55,
           "cost": 4.11,
           "produceImage": ""
         },
         {
-          "produceName": "blueberries",
-          "available": false,
+          "produceName": "Blackberries",
+          "available": "no",
           "quantity": 0,
           "cost": 1.6,
           "produceImage": ""
         },
         {
-          "produceName": "cucumber",
-          "available": true,
-          "quantity": 99,
-          "cost": 2.75,
-          "produceImage": ""
-        },
-        {
-          "produceName": "avocado",
-          "available": true,
+          "produceName": "More Avocado",
+          "available": "yes",
           "quantity": 65,
           "cost": 4.95,
           "produceImage": ""
         },
         {
-          "produceName": "milk",
-          "available": true,
+          "produceName": "Chocolate Milk",
+          "available": "yes",
           "quantity": 33,
           "cost": 3.5,
           "produceImage": ""
         },
         {
-          "produceName": "cheese",
+          "produceName": "Brussle Sprouts",
           "available": "yes",
-          "quantity": "1",
-          "cost": "1000000",
+          "quantity": 44,
+          "cost": 6.99,
           "produceImage": "Create Item"
         },
         {
-          "produceName": "pinapple",
-          "available": "yes",
-          "quantity": "44",
-          "cost": "6.99",
-          "produceImage": "Create Item"
-        },
-        {
-          "produceName": "pinapple",
-          "available": "yes",
-          "quantity": "44",
-          "cost": "6.99",
+          "produceName": "Gucci",
+          "available": "no",
+          "quantity": 69,
+          "cost": "you're too poor",
           "produceImage": "Create Item"
         }
       ]
